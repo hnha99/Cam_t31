@@ -6,6 +6,7 @@
         "video.h": "c",
         "app.h": "c",
         "stdbool.h": "c",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "string.h": "c"
     }
 }
