@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "stdint.h": "c",
+        "unistd.h": "c",
+        "video.h": "c",
+        "app.h": "c",
+        "stdbool.h": "c",
+        "stdio.h": "c"
+    }
+}
