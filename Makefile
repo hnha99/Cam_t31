@@ -20,6 +20,7 @@ CFLAGS += -Wall -g -pthread -lrt -lm -ldl
 
 include $(PROJECT_DIR)/source/Makefile.mk
 
+CFLAGS +=-I$(PROJECT_DIR)/dependence/include/t31
 CFLAGS +=-I$(PROJECT_DIR)/dependence/include/t31/imp
 
 LALIBS += $(PROJECT_DIR)/dependence/lib/uclibc/libimp.a

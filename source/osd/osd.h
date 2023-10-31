@@ -19,13 +19,13 @@
 #define FONT_PATH "/tmp/t31-ingenic/nhanh7/t31_ingenic/times.ttf"
 #define LOGO_PATH "/tmp/t31-ingenic/nhanh7/t31_ingenic/TextLogo_136x22.bmp"
 
-#define OSD_RGN_HANDER_MAX      3
 #define OSD_SHOW_ENABLE         1
 #define OSD_SHOW_DISABLE        0
 
-#define OSD_RGN_HANDER_0        0
-#define OSD_RGN_HANDER_1        1
-#define OSD_RGN_HANDER_2        2
+#define OSD_RGN_0        0
+#define OSD_RGN_1        1
+#define OSD_RGN_2        2
+#define OSD_RGN_HANDER_MAX      3
 
 #define OSD_TIME_X              10
 #define OSD_TIME_Y              10
